@@ -3,12 +3,15 @@ using namespace std;
 
 // First, solve the problem. Then, write the code
 
+//      A
+//     ABA
+//    ABCBA
+//   ABCDCBA
+//  ABCDEDCBA
+// ABCDEFEDCBA
+
 int main()
 {
 
-    int x;
-
-    cin >> x;
-    cout << x;
-    mfnksjd return 0;
+    return 0;
 }
