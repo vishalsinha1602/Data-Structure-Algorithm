@@ -7,8 +7,8 @@ using namespace std;
 int main()
 {
 
-    // array : use to store variable of simillar data type
-    // array can be accesed by indexed number starting from 0
+    //! array : use to store variable of simillar data type
+    //! array can be accesed by indexed number starting from 0
 
     // declaring an array
 
@@ -21,7 +21,7 @@ int main()
     // arr[5]=56;
     // cout<<arr[3];
 
-    // Note : stored in memory at any random place but alway be in consecutive order
+    //! Note : stored in memory at any random place but alway be in consecutive order
 
     // 2-D ARRAY Basicall used for solving  matrix  and graph question
 
@@ -33,18 +33,16 @@ int main()
     // 7 7 7 7 7
     // 5 5 5 5 5
 
-    // String is stored like an array can be accesed by indexed
+    //! String is stored like an array can be accesed by indexed
 
-    // string str = "hello world"; 
-    // 11 length including space 
+    // string str = "hello world";
+    // 11 length including space
 
     // int len = str.size();
     // cout << len <<'\n';
 
     // str[len-1]='a';
     // cout<<str[len-1];
-
-    
 
     return 0;
 }

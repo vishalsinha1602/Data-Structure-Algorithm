@@ -30,7 +30,7 @@ int main()
 
     // int i;
     // cin>>i;
-    // while(i<=10) // execute this block untill the condition statisfy
+    // while(i<=10) //! execute this block untill the condition statisfy
     // {
     //     cout<<i<<'\n';
     //     i=i+1;
@@ -38,7 +38,7 @@ int main()
     // }
     // cout<<"value :"<<i;
 
-    // Do-While : execute the code at least once then check the condition
+    //! Do-While : execute the code at least once then check the condition
     // int i;
     // cin>>i;
     // do{

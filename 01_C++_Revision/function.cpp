@@ -5,7 +5,7 @@ using namespace std;
 
 // function : function are the set of block of code used to do some specific task and we can reuse it again and again
 // Funcion Type
-// void=> which doesn't return anything
+//! void=> which doesn't return anything
 // return=>
 // parameterised
 // non-parameterised
@@ -20,10 +20,10 @@ using namespace std;
 //     int sum = a+b;
 // }
 
-// pass by value => goes in function ass copy of the variable not changing the real value
+//! pass by value => goes in function ass copy of the variable not changing the real value
 
-// pass by reference => goes through reference means goes he original address and it lead to change to value
-// array always goes through reference
+//! pass by reference => goes through reference means goes he original address and it lead to change to value
+//! array always goes through reference
 
 void dosomething(int &a)
 { // pass by reference

@@ -15,13 +15,13 @@
 //     return 0;
 // }
 
-// iostream : libaray to take input and produce output , #include<iostream>
+//? iostream : libaray to take input and produce output , #include<iostream>
 
-// cout<< : use for produce output.
-// cin>> : use to take input from the user.
+//? cout<< : use for produce output.
+//? cin>> : use to take input from the user.
 
-// \n : use for next place (faster)
-// endl: also used for next line (slower than \n)
+//? \n : use for next place (faster)
+//? endl: also used for next line (slower than \n)
 
-// using namespace std; : always used std for all the function.
-// Note:tells your compiler that if you find a method being called that is in "std" class, then immediately use method in that class.
+//? using namespace std; : always used std for all the function.
+//! Note:tells your compiler that if you find a method being called that is in "std" class, then immediately use method in that class.

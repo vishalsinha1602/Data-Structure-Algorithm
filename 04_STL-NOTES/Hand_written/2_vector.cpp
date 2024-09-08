@@ -6,9 +6,9 @@ using namespace std;
 int main()
 {
 
-    // vector is implemented using singly linked list
-    //  insert operation is coastly
-    //  vector is basically a dynamic array , we can increase aur decrease size dynamically
+    //! vector is implemented using singly linked list
+    //? insert operation is coastly
+    //? vector is basically a dynamic array , we can increase aur decrease size dynamically
     vector<int> v;
     // both are use to insert value
     v.push_back(5);
@@ -31,11 +31,11 @@ int main()
 
     // container already filled
 
-    vector<int> v1(5, 100); // this mean container of 5 instances is filled with 100
+    vector<int> v1(5, 100); //! this mean container of 5 instances is filled with 100
 
-    vector<int> v(5); // defining size of vector 5 bbut it can be change dynamically
+    vector<int> v(5); //! defining size of vector 5 bbut it can be change dynamically
 
-    vector<int> v1(v); // copy of v vector is inside v1
+    vector<int> v1(v); //! copy of v vector is inside v1
 
     // iterator
 

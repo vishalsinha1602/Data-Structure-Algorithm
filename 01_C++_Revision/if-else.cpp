@@ -18,7 +18,7 @@ int main()
      execute this block
       }*/
 
-    // Note : it is not mandatory to give else for every if .
+    //! Note : it is not mandatory to give else for every if .
     if (age >= 18)
     {
         cout << "you are an adult \n";
